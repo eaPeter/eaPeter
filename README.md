@@ -50,6 +50,8 @@
 <img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eaPeter&theme=chartreuse-dark&fire=DD2727&ring=DD2727" alt="eaPeter's streak" />
 </div>
 
+![alt text](anime.jpg)
+
 [gmail]: peteremmanuel0544@gmail.com
 [twitter]: https://twitter.com/eapeter5
 [instagram]: https://www.instagram.com/_eapeter
