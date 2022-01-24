@@ -27,7 +27,7 @@
 
 <br />
 
-### Let's have some chat:
+###💬 Let's have some chat:
 
 <a href="mailto:peteremmanuel0544@gmail.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Peter's Gmail" width="25" /></a>&nbsp;&nbsp;
 [<img align="left" alt="Peter's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -42,7 +42,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=eaPeter&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="eaPeter github stats" />
 </a>
 
-<a href="https://github.com/RedeemerNtumy/github-readme-stats">
+<a href="https://github.com/eaPeter/github-readme-stats">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaPeter&theme=chartreuse-dark" />
 </a>
 
