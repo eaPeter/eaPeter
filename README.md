@@ -8,14 +8,8 @@
 - 👯 I’m looking forward to collaborating with other designers and developers 🧑‍🤝‍🧑
 - ⚡ Fun fact: I love anime 😎
 
-### Let's have some chat:
-
-<a href="mailto:peteremmanuel0544@gmail.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Peter's Gmail" width="25" /></a>&nbsp;&nbsp;
-[<img align="left" alt="Peter's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Peter's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Peter's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <hr />
+
 
 ### Languages and Tools:
 
@@ -31,8 +25,15 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
+
+### Let's have some chat:
+
+<a href="mailto:peteremmanuel0544@gmail.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Peter's Gmail" width="25" /></a>&nbsp;&nbsp;
+[<img align="left" alt="Peter's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Peter's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Peter's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<hr />
 
 
 
