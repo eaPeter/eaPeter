@@ -11,7 +11,7 @@
 <hr />
 
 
-### Languages and Tools:
+### My Stack:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -39,7 +39,7 @@
 
 
 <a href="https://github.com/eaPeter/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eaPeter&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="eaPeter github stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eaPeter&show_icons=true&include_all_commits=true&theme=chartreuse-dark" alt="Peter's github stats" />
 </a>
 
 <a href="https://github.com/eaPeter/github-readme-stats">
@@ -47,12 +47,13 @@
 </a>
 
 <div style="display: flex; flex-direction: column;">
-<img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eaPeter&theme=chartreuse-dark&fire=DD2727&ring=DD2727" alt="eaPeter's streak" />
+<img style="margin-top:10px;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eaPeter&theme=chartreuse-dark&fire=DD2727&ring=DD2727" alt="Peter's streak" />
 </div>
 
-![alt text](anime.jpg)
+![Anime Image](anime.jpg)
 
 [gmail]: peteremmanuel0544@gmail.com
 [twitter]: https://twitter.com/eapeter5
 [instagram]: https://www.instagram.com/_eapeter
 [linkedin]: https://www.linkedin.com/in/emmanuel-peter-amexo-09a0b11b8/
+[discord]: https://discord.com/eaPeter#3047
