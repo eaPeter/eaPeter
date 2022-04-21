@@ -29,7 +29,7 @@
 
 ### 💬 Let's have some chat:
 
-<a href="mailto:peteremmanuel0544@gmail.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Peter's Gmail" width="25" /></a>&nbsp;&nbsp;
+<a href="mailto:peteremmanuel0544@gmail.com" target="_blank"><img align="left" color="#e3e3e3" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Peter's Gmail" width="25" /></a>&nbsp;&nbsp;
 [<img align="left" alt="Peter's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Peter's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Peter's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
