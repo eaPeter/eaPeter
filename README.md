@@ -33,7 +33,8 @@
 [<img align="left" alt="Peter's Twitter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/>][twitter]
 [<img align="left" alt="Peter's LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Peter's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-![Peter's Instagram](instagram_logo)[instagram]
+![instagram](instagram_logo)
+
 
 <hr />
 
