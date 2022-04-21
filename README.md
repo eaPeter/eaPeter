@@ -29,10 +29,11 @@
 
 ### 💬 Let's have some chat:
 
-<a href="mailto:peteremmanuel0544@gmail.com" target="_blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Peter's Gmail" width="25" /></a>&nbsp;&nbsp;
+<a href="mailto:peteremmanuel0544@gmail.com" target="_blank"><img align="left" src="https://camo.githubusercontent.com/898db73904e0e8df853ab6cb78b06b92295417dfd04cca73c3745e0b717455ad/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3238312f3238313736392e706e67" alt="Peter's Gmail" width="25" /></a>&nbsp;&nbsp;
 [<img align="left" alt="Peter's Twitter" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg"/>][twitter]
-[<img align="left" alt="Peter's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Peter's LinkedIn" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Peter's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Peter's Instagram](instagram_logo)[instagram]
 
 <hr />
 
