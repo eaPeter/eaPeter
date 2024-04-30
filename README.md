@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Peter👋 
 
-## I'm a Student, Designer, Developer, and Gamer.
+## I'm a Designer, Developer, and Gamer.
 
 - 🌱 I’m currently learning everything 😍
 - 👯 I’m looking forward to collaborating with other designers and developers 🧑‍🤝‍🧑
